@@ -72,7 +72,7 @@ npm start
 <h1 id="team">Team Cowinoid</h1>
  
  <ol>
-  <li>Ashish Tom</li>
-  <li>Janet S</li>
-  <li>Thushar Kiran</li>
+  <li><a href="https://github.com/alceil">Ashish Tom</a></li>
+  <li><a href="https://github.com/janetseb">Janet S</a></li>
+  <li><a href="https://github.com/thusharkiransd">Thushar Kiran</a></li>
  </ol>
