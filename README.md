@@ -26,6 +26,17 @@
 
 <br><br>
 
+ <h1>Here's how I can help you...</h1>
+ 
+ <ul>
+  <li>Add the discord bot to your server</li>
+  <li>List the available districts</li>
+  <li>Enter your district and age</li>
+  <li>Modify the saved data</li>
+  <li>Check the availability of slots based on the data provided</li>
+  <li>Receive hourly notifications on open slots</li>
+  <li>Unsubscribe from the notifications</li>
+ </ul>
 
 
 <br><br>
