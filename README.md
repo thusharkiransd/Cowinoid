@@ -4,7 +4,7 @@
 
 
 
-<div align="center"><img src="https://raw.githubusercontent.com/aquibe/VacBot/main/assets/wlogo.png"  width="500em" ></div>
+<div align="center"><img src="https://github.com/alceil/images/blob/main/COVINOID.png?raw=true"  width="500em" ></div>
 
 <h1 align="center">VacBot(Discord CoWIN Bot)</h1>
 
