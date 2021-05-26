@@ -26,7 +26,7 @@
 
 <br><br>
 
- <h1>Here's how I can help you...</h1>
+ <h1>Here's how I can help you🤖</h1>
  
  <ul>
   <li>Add the discord bot to your server</li>
