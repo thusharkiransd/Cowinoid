@@ -70,4 +70,9 @@ npm start
 <br><br>
 
 <h1 id="team">Team Cowinoid</h1>
-
+ 
+ <ol>
+  <li>Ashish Tom</li>
+  <li>Janet S</li>
+  <li>Thushar Kiran</li>
+ </ol>
