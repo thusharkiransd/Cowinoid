@@ -8,7 +8,7 @@
 
 <h1 align="center">Cowinoid Discord Bot</h1>
 
-<p align="center">Hey!👋🏻 I'm Cowinoid, a discord bot. I can help you check the availability Covid-19 vaccination slots in your area and notify you when slots are available. This project was made as a part of<mark>TinkerHub Build From Home 2021</mark> Discord Bot for CoWIN Project.</p>
+<p align="center">Hey!👋🏻 I'm Cowinoid, a discord bot. I can help you check the availability Covid-19 vaccination slots in your area and notify you when slots are available. This project was made as a part of TinkerHub Build From Home 2021.</p>
 <br>
 <h3 align="center"><a href="https://discord.com/oauth2/authorize?client_id=844918394888388629&permissions=68608&scope=bot">Add the bot to your server</a> | <a href="https://discord.gg/DUPNJp7vYB/">Join our VacBot server</a></h3>
 
