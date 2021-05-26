@@ -6,9 +6,9 @@
 
 <div align="center"><img src="https://github.com/alceil/images/blob/main/COVINOID.png?raw=true"  width="500em" ></div>
 
-<h1 align="center">VacBot(Discord CoWIN Bot)</h1>
+<h1 align="center">Cowinoid Discord Bot</h1>
 
-<p align="center">Hey there!👋🏻, this is a Discord Bot called VacBot, which will check Covid vaccination slots availability in your area and alert you when a slot becomes available. Build by <a href="#team"> 3 students</a> from Safi Institute of Advanced Study for <mark>TinkerHub Build From Home 2021</mark> Discord Bot for CoWIN Project.</p>
+<p align="center">Hey!👋🏻 I'm Cowinoid, a discord bot. I can help you check the availability Covid-19 vaccination slots in your area and notify you when slots are available. Build by <a href="#team"> 3 students</a> from Safi Institute of Advanced Study for <mark>TinkerHub Build From Home 2021</mark> Discord Bot for CoWIN Project.</p>
 <br>
 <h3 align="center"><a href="https://discord.com/oauth2/authorize?client_id=844918394888388629&permissions=68608&scope=bot">Add the bot to your server</a> | <a href="https://discord.gg/DUPNJp7vYB/">Join our VacBot server</a></h3>
 
